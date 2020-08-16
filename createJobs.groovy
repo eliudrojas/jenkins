@@ -13,7 +13,7 @@ pipelineJob('theme-park-job') {
 			scm {
 				git {
 					remote {
-						url 'https://github.com/eliudrojas/ThemeRidePark.git'
+						url 'https://github.com/eliudrojas/spring-api.git'
 					}
 					branch 'master'
 				}
